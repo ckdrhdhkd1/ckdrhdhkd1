@@ -1,11 +1,13 @@
 ✅ ***Bio<br>***
 - Majored in Electrical Engineering
 - Crypto trading got me into programming
-- Completed Internship at Samsung Software Academy For Youth (2024.07)
-- Currently : Studying algorithms in C++<br><br>
-
+- 2024.07 : Completed Internship at Samsung Software Academy For Youth<br><br>
 
 ✅ ***Interests<br>***
-- Amateur Radio - I like 'Parks on the Air' activation, almost every communication is CW(Morse Code).
+- Amateur Radio - Especially CW (Morse Code)
 - Crypto Trading
-- Coffee!
+- Coffee!<br><br>
+
+▶️ ***Current Work<br>***
+- [Market Trading Hours](https://t.me/MarketTradingHours) - Telegram channel, Notify users of today's LSE and NYSE opening and closing times.
+- Studying algorithms, C++, Python.
