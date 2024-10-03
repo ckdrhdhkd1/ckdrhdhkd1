@@ -8,6 +8,6 @@
 - Crypto Trading.
 - Coffee! ☕️<br><br>
 
-❇️ ***Current Work<br>***
+❇️ ***Current Works<br>***
 - [Market Trading Hours](https://t.me/MarketTradingHours) - Telegram channel, Notify users of today's LSE and NYSE opening and closing times.
 - Studying algorithms, C++, Python.
