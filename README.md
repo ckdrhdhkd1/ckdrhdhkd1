@@ -1,6 +1,6 @@
 ✅ ***Bio<br>***
 - Majored in Electrical Engineering.
-- Crypto trading got me into programming, totally changed my life.
+- Crypto trading got me into programming.
 - 2024.07 : Completed Internship at Samsung Software Academy For Youth.<br><br>
 
 ✅ ***Interests<br>***
