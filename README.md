@@ -6,7 +6,6 @@
 ✅ ***Interests<br>***
 - Amateur Radio - First Class Amateur Radio Operator
 - Crypto Trading
-- Audio Engineering - Mixing and Mastering
 - Coffee!<br><br>
 
 ▶️ ***Current Work<br>***
