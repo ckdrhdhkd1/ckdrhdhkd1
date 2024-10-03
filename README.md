@@ -4,7 +4,7 @@
 - 2024.07 : Completed Internship at Samsung Software Academy For Youth<br><br>
 
 ✅ ***Interests<br>***
-- Amateur Radio - Especially CW (Morse Code)
+- Amateur Radio - First Class Amateur Radio Operator
 - Crypto Trading
 - Coffee!<br><br>
 
