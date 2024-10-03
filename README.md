@@ -10,4 +10,4 @@
 
 ❇️ ***Current Works<br>***
 - [Market Trading Hours](https://t.me/MarketTradingHours) - Telegram channel, Notify users of today's LSE and NYSE opening and closing times.
-- Studying algorithms, C++, Python.
+- Studying algorithms, C++, and Python.
