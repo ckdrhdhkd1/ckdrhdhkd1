@@ -1,11 +1,11 @@
 ✅ ***Bio<br>***
 - Majored in Electrical Engineering.
 - Crypto trading got me into programming.
-- 2024.07 : Completed Internship at Samsung Software Academy For Youth.<br><br>
+- 2024.07 : Completed Internship at Samsung Software Academy For Youth<br><br>
 
 ✅ ***Interests<br>***
-- Amateur Radio - 1st Class Amateur Radio Operator.
-- Crypto Trading.
+- Amateur Radio
+- Crypto Trading
 - Coffee! ☕️<br><br>
 
 ❇️ ***Current Works<br>***
