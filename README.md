@@ -6,7 +6,7 @@
 ✅ ***Interests<br>***
 - Amateur Radio - 1st Class Amateur Radio Operator.
 - Crypto Trading.
-- Coffee!<br><br>
+- Coffee! ☕️<br><br>
 
 ▶️ ***Current Work<br>***
 - [Market Trading Hours](https://t.me/MarketTradingHours) - Telegram channel, Notify users of today's LSE and NYSE opening and closing times.
