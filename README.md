@@ -8,6 +8,9 @@
 - Crypto Trading
 - Coffee! ☕️<br><br>
 
-❇️ ***Current Works<br>***
-- [Market Trading Hours](https://t.me/MarketTradingHours) - Telegram channel, Notify users of today's LSE and NYSE opening and closing times.
+✅ ***Personal Works<br>***
+- [Market Trading Hours](https://t.me/MarketTradingHours) - Telegram Channel, Alert today's market schedule.<br><br>
+
+⚠️ ***Current Task<br>***
 - Studying algorithms, C++, and Python.
+- Capstone Design in Univ, using ESP32.
