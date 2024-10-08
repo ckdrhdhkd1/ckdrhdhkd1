@@ -1,7 +1,7 @@
 ✅ ***Bio<br>***
 - Majored in Electrical Engineering.
 - Crypto trading got me into programming.
-- 2024.07 : Completed Internship at Samsung Software Academy For Youth<br><br>
+- 2024.07 : Completed an Internship at Samsung Software Academy For Youth<br><br>
 
 ✅ ***Interests<br>***
 - Amateur Radio
@@ -9,8 +9,8 @@
 - Coffee! ☕️<br><br>
 
 ✅ ***Projects<br>***
-- [Market Trading Hours](https://t.me/MarketTradingHours) : Telegram Channel, Alert today's market schedule.<br><br>
+- [Market Trading Hours](https://t.me/MarketTradingHours) : A Telegram Channel that provides daily market schedule alerts.<br><br>
 
 ⚠️ ***Current Tasks<br>***
 - Studying algorithms, C++, and Python.
-- Capstone Design in Univ, using ESP32.
+- Working on a Capstone Design project using ESP32 at university.
