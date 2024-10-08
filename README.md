@@ -8,7 +8,7 @@
 - Crypto Trading
 - Coffee! ☕️<br><br>
 
-✅ ***Personal Works<br>***
+✅ ***Project<br>***
 - [Market Trading Hours](https://t.me/MarketTradingHours) - Telegram Channel, Alert today's market schedule.<br><br>
 
 ⚠️ ***Current Task<br>***
