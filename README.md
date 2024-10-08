@@ -1,7 +1,7 @@
 ✅ ***Bio<br>***
 - Majored in Electrical Engineering.
 - Crypto trading got me into programming.
-- Completed an internship at Samsung Software Academy for Youth in July 2024.<br><br>
+- 2024.07 : Completed an internship at Samsung Software Academy for Youth.<br><br>
 
 ✅ ***Interests<br>***
 - Amateur Radio
@@ -14,3 +14,4 @@
 ⚠️ ***Current Tasks<br>***
 - Studying algorithms, C++, and Python.
 - Working on a Capstone Design project using ESP32 at university.
+- ESP32 HamAlert telnet CQ Spotter.
