@@ -1,7 +1,7 @@
 ✅ ***Bio<br>***
 - Majored in Electrical Engineering.
 - Crypto trading got me into programming.
-- 2024.07 : Completed an Internship at Samsung Software Academy For Youth<br><br>
+- Completed an internship at Samsung Software Academy for Youth in July 2024.<br><br>
 
 ✅ ***Interests<br>***
 - Amateur Radio
