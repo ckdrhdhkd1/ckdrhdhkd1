@@ -8,9 +8,9 @@
 - Crypto Trading
 - Coffee! ☕️<br><br>
 
-✅ ***Project<br>***
+✅ ***Projects<br>***
 - [Market Trading Hours](https://t.me/MarketTradingHours) : Telegram Channel, Alert today's market schedule.<br><br>
 
-⚠️ ***Current Task<br>***
+⚠️ ***Current Tasks<br>***
 - Studying algorithms, C++, and Python.
 - Capstone Design in Univ, using ESP32.
