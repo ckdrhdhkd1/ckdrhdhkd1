@@ -17,4 +17,4 @@
 ☑️ ***Current Tasks***
 - Studying data structures, algorithms, C++, and Python.
 - Working on a Capstone Design project using ESP32 at university.
-- Working on CQ spotter using the Telnet feature from the HamAlert website with ESP32.
+- Developing a CQ spot monitor using the Telnet feature from the HamAlert website with ESP32.
