@@ -1,17 +1,20 @@
-✅ ***Bio<br>***
+✅ ***Bio***
 - 2018.03 - Present: Currently majoring in Electrical Engineering.
 - 2023.01: Got into programming while trading crypto.
-- 2024.07: Completed an internship at Samsung Software Academy for Youth.<br><br>
+- 2024.07: Completed an internship at Samsung Software Academy for Youth (SSAFY).<br><br>
 
-✅ ***Interests<br>***
-- Amateur Radio
+✅ ***Interests***
 - Crypto Trading
+- Computers and Technology
+- Amateur Radio
+- Audio Engineering
+- Photography
 - Coffee! ☕️<br><br>
 
-✅ ***Projects<br>***
-- [Market Trading Hours](https://t.me/MarketTradingHours): A Telegram Channel that provides daily market schedule alerts.<br><br>
+✅ ***Projects***
+- Market Trading Hours: [A Telegram Channel](https://t.me/MarketTradingHours) that provides daily market schedule alerts.<br><br>
 
-⚠️ ***Current Tasks<br>***
-- Studying algorithms, C++, and Python.
+⚠️ ***Current Tasks***
+- Studying data structures, algorithms, C++, and Python.
 - Working on a Capstone Design project using ESP32 at university.
 - Working on CQ spotter using the Telnet feature from the HamAlert website with ESP32.
