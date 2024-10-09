@@ -6,7 +6,7 @@
 
 ✅ ***Personal Projects***
 - **Market Trading Hours**: [A Telegram Channel](https://t.me/MarketTradingHours) that provides daily market schedule alerts.
-- **ESP32 CQ Spot Monitor**: Currently in development.<br><br>
+- **CQ Spot Monitor**: Currently in development.<br><br>
 
 ✅ ***Interests***
 - Crypto Trading
