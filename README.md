@@ -11,7 +11,7 @@
 - Photography
 - Coffee! ☕️<br><br>
 
-✅ ***Projects***
+✅ ***Personal Projects***
 - **Market Trading Hours**: [A Telegram Channel](https://t.me/MarketTradingHours) that provides daily market schedule alerts.<br><br>
 
 ☑️ ***Current Tasks***
